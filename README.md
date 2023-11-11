@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gopal-jogi/gopal-jogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +48,7 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jog&show_icons=true&theme=radical)](https://github.com/gopal)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical)](https://github.com/gopal-jogi)
 
 <!-- Additional Information or Call to Action -->
 ## 🌟 Fun Fact
