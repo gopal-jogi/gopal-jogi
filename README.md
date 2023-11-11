@@ -38,7 +38,7 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
 <!-- Connect with Me -->
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gopal_jogi-blue)](https://www.linkedin.com/in/gopal_jogi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
 
 
 <!-- Fun Facts or Hobbies -->
