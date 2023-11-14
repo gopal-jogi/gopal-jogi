@@ -51,7 +51,7 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 <!-- Connect with Me -->
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
-[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gopaljogi5@gmail.com)
+[![Gmail](<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gopaljogi5@gmail.com)
 
 
 
