@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your Name and Introduction -->
-# Hi there, I'm Gopal Jogi! 👋
+<h1 align="center"># Hi there, I'm Gopal Jogi! 👋</h1>
 
 I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
