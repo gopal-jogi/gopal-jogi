@@ -21,14 +21,14 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<span align="left">🌱 I’m currently learning...
+## 🌱 I’m currently learning...
 - Exploring DevOps practices and tools 🛠️
-- Enhancing my skills in automation and CI/CD pipelines 🤖</span>
+- Enhancing my skills in automation and CI/CD pipelines 🤖
 
-<span align="right">👥 I'm looking to collaborate on...
+## 👥 I'm looking to collaborate on...
 - Open-source projects related to DevOps and automation 🌐
 - Building tools to simplify software development workflows ⚙️
-- Exploring innovative solutions for continuous integration and delivery 🚚</span>
+- Exploring innovative solutions for continuous integration and delivery 🚚
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
