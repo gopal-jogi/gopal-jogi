@@ -1,5 +1,5 @@
 
-<h1 align="center">## Hi there, I'm Gopal Jogi! 👋</h1>
+<h1 align="center">Hi there, I'm Gopal Jogi! 👋</h1>
 <h3 align="center">I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -21,11 +21,11 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌱 I’m currently learning...
+<h1 align="left" >🌱 I’m currently learning...</h1>
 - Exploring DevOps practices and tools 🛠️
 - Enhancing my skills in automation and CI/CD pipelines 🤖
 
-## 👥 I'm looking to collaborate on...
+<h1 align="right">👥 I'm looking to collaborate on...</h1>
 - Open-source projects related to DevOps and automation 🌐
 - Building tools to simplify software development workflows ⚙️
 - Exploring innovative solutions for continuous integration and delivery 🚚
