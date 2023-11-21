@@ -1,26 +1,8 @@
 
-<!--
-**gopal-jogi/gopal-jogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Your Name and Introduction -->
-<h1 align="center">Hi there, I'm Gopal Jogi! 👋</h1>
+<h1 align="center">## Hi there, I'm Gopal Jogi! 👋</h1>
 <h3 align="center">I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
-<!-- Your Skills and Technologies -->
 ## 🔧 Technologies & Tools
 - **Languages:**
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,9 +21,6 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-<!-- What You're Currently Learning -->
 ## 🌱 I’m currently learning...
 - Exploring DevOps practices and tools 🛠️
 - Enhancing my skills in automation and CI/CD pipelines 🤖
@@ -51,27 +30,13 @@ Here are some ideas to get you started:
 - Building tools to simplify software development workflows ⚙️
 - Exploring innovative solutions for continuous integration and delivery 🚚
 
-<!-- Connect with Me -->
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
 [![Gmail](https://img.shields.io/badge/Email-ContactMe-red)](mailto:gopaljogi5@gmail.com)
-
-
-
-
-<!-- Fun Facts or Hobbies -->
 ## ⚡ Fun Facts
 - I love to code and explore new technologies 💻
 - Enjoying a cup of coffee while coding is my favourite ritual ☕
 - Ask me about my latest coding challenge and I'll share the story 🤓
-
-<!-- GitHub Stats -->
 ## 📈 GitHub Stats
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=dark&date_format=M%20j%5B%2C%20Y%5D) |
-
-<!-- Additional Information or Call to Action -->
-## 🌟 Fun Fact
-Did you know coding is both an art and a science? 🎨🧪
-
-Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🚀
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
