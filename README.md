@@ -66,7 +66,8 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical)](https://github.com/gopal-jogi)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=dark&date_format=M%20j%5B%2C%20Y%5D) |
+
 <!-- Additional Information or Call to Action -->
 ## 🌟 Fun Fact
 Did you know coding is both an art and a science? 🎨🧪
