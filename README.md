@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi there, I'm Gopal Jogi! 👋</h1>
 <h3 align="center">I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
 ## 🔧 Technologies & Tools
 - **Languages:**
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
