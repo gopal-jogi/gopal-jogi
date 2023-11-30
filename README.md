@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there, I'm Gopal Jogi! 👋</h1>
 <h3 align="center">I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" align='rigth'></img>
 
 ## 🔧 Technologies & Tools
 - **Languages:**
@@ -23,7 +24,7 @@
 ## 🌱 I’m currently learning...
 - Exploring DevOps practices and tools 🛠️
 - Enhancing my skills in automation and CI/CD pipelines 🤖
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"></img>
+
 ## 👥 I'm looking to collaborate on...
 - Open-source projects related to DevOps and automation 🌐
 - Building tools to simplify software development workflows ⚙️
