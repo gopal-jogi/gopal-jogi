@@ -39,7 +39,7 @@
 - Ask me about my latest coding challenge and I'll share the story 🤓
 ## 📈 GitHub Stats
 <a href="https://github.com/gopal-jogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gopal-jogi&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/gopal-jogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gopal-jogi&theme=dark" />
