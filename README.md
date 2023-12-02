@@ -42,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/gopal-jogi">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&theme=dark" />
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" />
 </a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
