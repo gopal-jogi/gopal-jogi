@@ -38,6 +38,10 @@
 - Enjoying a cup of coffee while coding is my favourite ritual ☕
 - Ask me about my latest coding challenge and I'll share the story 🤓
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&layout=compact&show_icons=true&theme=radical_format=M%20j%5B%2C%20Y%5D)
+<a href="https://github.com/gopal-jogi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gopal-jogi&repo=gopal-jogi&theme=dark" />
+</a>
+<a href="https://github.com/gopal-jogi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gopal-jogi&repo=gopal-jogi&theme=dark" />
+</a>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
