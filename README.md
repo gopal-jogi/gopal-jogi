@@ -36,7 +36,7 @@
 ## ⚡ Fun Facts
 - I love to code and explore new technologies 💻
 - Enjoying a cup of coffee while coding is my favourite ritual ☕
-- Ask me about my latest coding challenge and I'll share the story 🤓
+- Ask me about my latest coding challenge and I'll share the story 
 ## 📈 GitHub Stats
 <a href="https://github.com/gopal-jogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical" />
