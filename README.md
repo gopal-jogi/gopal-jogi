@@ -45,6 +45,6 @@
 <a href="https://github.com/gopal-jogi">
   <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&layout=donut&theme=radical" />
 </a>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
 
