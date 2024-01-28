@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gopal Jogi, DevOps and Python Fullstack developer from <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/india.svg" width="13"/> <b>Nagpur, Maharastra </b>, currently living in <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/india.svg" width="13"/> <b>Bangalore, Karnataka</b>. </p>
+<p>Welcome to my page! </br> I'm Gopal Jogi, DevOps and Python Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/2412/2412420.png" width="13"/> <b>Nagpur, Maharastra </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/2412/2412420.png" width="13"/> <b>Bangalore, Karnataka</b>. </p>
 <h3>Things I code with</h3>
 
 ## 🔧 Technologies & Tools
