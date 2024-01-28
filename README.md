@@ -1,7 +1,8 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<h1 align="center">Hi there, I'm Gopal Jogi! 👋</h1>
-<h3 align="center">I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!</h3>
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" align="right"></img> -->
+
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
 
 ## 🔧 Technologies & Tools
 - **Languages:**
