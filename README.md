@@ -23,7 +23,6 @@
   ![Linux](https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![ship-it](img/ship-it.jpg)
 
 ## 🌱 I’m currently learning...
 - Exploring DevOps practices and tools 🛠️
