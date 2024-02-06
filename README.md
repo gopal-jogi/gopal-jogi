@@ -49,21 +49,21 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code> -->
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=selenium&animation=spin&svgfill=15d8fe">
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=15d8fe"></code>
+<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=selenium&svgfill=15d8fe"></code>
 <!-- <code><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4"></code> -->
 
 
