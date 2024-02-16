@@ -62,7 +62,6 @@
 <code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=15d8fe"></code>
 <code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=15d8fe"></code>
 <code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=selenium&svgfill=15d8fe"></code>
 <!-- <code><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4"></code> -->
 
 
