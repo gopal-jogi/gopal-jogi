@@ -1,93 +1,71 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+## Welcome to my GitHub Profile!
 
-<p>Welcome to my page! </br> I'm Gopal Jogi, DevOps and Fullstack Python developer from <img src="https://cdn-icons-png.flaticon.com/128/2412/2412420.png" width="13"/> <b>Nagpur, Maharastra </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/2412/2412420.png" width="13"/> <b>Bangalore, Karnataka</b>. </p>
-<h3>Things I code with</h3>
+I'm Gopal Jogi, a DevOps and Fullstack Python developer originally from Nagpur, Maharashtra, now based in Bangalore, Karnataka.
 
-## 🔧 Technologies & Tools
-<!-- - <h3>Languages:</h3>
+### Things I code with
 
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=15d8fe"></code>
+<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=15d8fe"></code>
 
+### 🌱 Currently Learning
 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- <h3>Databases:</h3>
+- Exploring advanced DevOps practices and tools 🛠️
+- Enhancing automation skills for CI/CD pipelines 🤖
 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- <h3>Tools:</h3> 
+### 👥 Looking to Collaborate On
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
-  ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  
--->
-<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="25" src=""></code>
-<code><img height="25" src=""></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code> -->
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=15d8fe"></code>
-<code><img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=15d8fe"></code>
-<!-- <code><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4"></code> -->
-
-
-## 🌱 I’m currently learning...
-- Exploring DevOps practices and tools 🛠️
-- Enhancing my skills in automation and CI/CD pipelines 🤖
-
-## 👥 I'm looking to collaborate on...
 - Open-source projects related to DevOps and automation 🌐
-- Building tools to simplify software development workflows ⚙️
-- Exploring innovative solutions for continuous integration and delivery 🚚
+- Simplifying software development workflows with innovative tools ⚙️
+- Continuous integration and delivery solutions 🚚
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
-[![Gmail](https://img.shields.io/badge/Email-ContactMe-red)](mailto:gopaljogi5@gmail.com)
-## ⚡ Fun Facts
-- I love to code and explore new technologies 💻
-- Enjoying a cup of coffee while coding is my favourite ritual ☕
-- Ask me about my latest coding challenge and I'll share the story 
-## 📈 GitHub Stats
-<a href="https://github.com/gopal-jogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/gopal-jogi">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&layout=donut&theme=radical" />
-</a>
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/gopaljogi/)
+- Email: gopaljogi5@gmail.com
+
+### ⚡ Fun Facts
+
+- I enjoy coding and exploring new technologies 💻
+- Coding with a cup of coffee is my favorite ritual ☕
+- Ask me about my latest coding challenge, and I'll share the story 
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+## 🏆 Experience
 
+### Data Engineer | Zintlr (February 2024 - Present)
 
+- Developed and maintained data pipelines, optimized ETL processes.
+- Ensured data integrity and collaborated across teams for data requirements.
+- Proficient in SQL, Python, and cloud platforms like AWS and Google Cloud.
+
+### MLOps Engineer | Zintlr (February 2024 - Present)
+
+- Deployed ML models, developed CI/CD pipelines, and monitored performance.
+- Ensured scalability and reliability of ML infrastructure.
+- Implemented best practices for model governance using Python, Docker, and Kubernetes.
+
+### Python/Django Developer Intern | ROMO TECHNOLOGIES (February 2023 - May 2023)
+
+- Engineered responsive Python/Django web apps, integrated RESTful APIs.
+- Achieved a 40% increase in customer satisfaction ratings through improved user experiences.
