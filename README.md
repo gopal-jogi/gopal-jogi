@@ -34,13 +34,13 @@ I'm Gopal Jogi, a DevOps and Fullstack Python developer originally from Nagpur, 
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gopaljogi/)
-- Email: gopaljogi5@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
+[![Email](https://img.shields.io/badge/Email-gopaljogi5%40gmail.com-red)](mailto:gopaljogi5@gmail.com)
 
 ### ⚡ Fun Facts
 
-- I enjoy coding and exploring new technologies 💻
-- Coding with a cup of coffee is my favorite ritual ☕
+- I love coding and exploring new technologies 💻
+- Enjoying a cup of coffee while coding is my favorite ritual ☕
 - Ask me about my latest coding challenge, and I'll share the story 
 
 ### 📈 GitHub Stats
@@ -52,12 +52,6 @@ I'm Gopal Jogi, a DevOps and Fullstack Python developer originally from Nagpur, 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🏆 Experience
-
-### Data Engineer | Zintlr (February 2024 - Present)
-
-- Developed and maintained data pipelines, optimized ETL processes.
-- Ensured data integrity and collaborated across teams for data requirements.
-- Proficient in SQL, Python, and cloud platforms like AWS and Google Cloud.
 
 ### MLOps Engineer | Zintlr (February 2024 - Present)
 
