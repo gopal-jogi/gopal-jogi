@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub Profile!
 
-I'm Gopal Jogi, a DevOps and Fullstack Python developer originally from Nagpur, Maharashtra, now based in Bangalore, Karnataka.
+I'm Gopal Jogi, a passionate DevOps and Fullstack Python developer originally from Nagpur, Maharashtra, now based in Bangalore, Karnataka.
 
-### Things I code with
+### 💻 Technologies & Tools
 
 <code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"></code>
 <code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=15d8fe"></code>
@@ -51,15 +51,10 @@ I'm Gopal Jogi, a DevOps and Fullstack Python developer originally from Nagpur, 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-## 🏆 Experience
+## 🏆 Professional Experience
 
-### MLOps Engineer | Zintlr (February 2024 - Present)
+### Data Engineer | Zintlr (February 2024 - Present)
 
-- Deployed ML models, developed CI/CD pipelines, and monitored performance.
-- Ensured scalability and reliability of ML infrastructure.
-- Implemented best practices for model governance using Python, Docker, and Kubernetes.
-
-### Python/Django Developer Intern | ROMO TECHNOLOGIES (February 2023 - May 2023)
-
-- Engineered responsive Python/Django web apps, integrated RESTful APIs.
-- Achieved a 40% increase in customer satisfaction ratings through improved user experiences.
+- Developed and maintained data pipelines, optimized ETL processes.
+- Ensured data integrity and collaborated across teams for data requirements.
+- Proficient in SQL, Python, and cloud platforms like AWS and Google Cloud.
