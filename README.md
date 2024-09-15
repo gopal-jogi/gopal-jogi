@@ -10,7 +10,7 @@
 
 <!--snake animation-->
 <div align="center">
-  <img src="https://github.com/gopal-jogi/gopal-jogi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+ <img src="https://github.com/gopal-jogi/gopal-jogi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <!--h2 without bottom border-->
