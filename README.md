@@ -43,11 +43,9 @@
       <img title="🔥 GitHub streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gopal-jogi&theme=dark&hide_border=false" /> 
     </td>
 
-    <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gopal-jogi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+    </td>
   </tr>
   </table>
 </p>
@@ -89,7 +87,9 @@
 
 <!--Profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=gopaljogi&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+  
+[![](https://visitcount.itsvg.in/api?id=gopaljogi&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
 
 <!--horizontal divider(gradiant)-->
