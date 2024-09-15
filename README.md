@@ -38,13 +38,13 @@
   <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopaljogi5&theme=dark&show_icons=true&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal-jogi&theme=dark&show_icons=true&count_private=true" />
       <br><br>
-      <img title="🔥 GitHub streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gopaljogi5&theme=dark&hide_border=false" /> 
+      <img title="🔥 GitHub streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gopal-jogi&theme=dark&hide_border=false" /> 
     </td>
 
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gopaljogi5&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gopal-jogi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
   </tr>
   </table>
@@ -54,7 +54,7 @@
 <!--trophy start-->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophy">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=gopaljogi5&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=gopal-jogi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 <!--trophy end-->
@@ -69,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,gcp,azure,linux,git,vscode,html,css&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,gcp,azure,linux,git,go,vscode,html,css&perline=12" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@
 
 <!--Social links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/gopaljogi5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/gopaljogi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 <!--Profile visit count-->
