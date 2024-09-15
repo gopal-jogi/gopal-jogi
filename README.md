@@ -8,10 +8,10 @@
   </ul>
 </div>
 
-<!--snake animation-->
+<!--snake animation-
 <div align="center">
  <img src="https://github.com/gopal-jogi/gopal-jogi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+</div> -->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
