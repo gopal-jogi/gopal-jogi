@@ -10,7 +10,7 @@
 
 <!--snake animation-->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  <img src="https://github.com/gopal-jogi/gopal-jogi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <!--h2 without bottom border-->
@@ -23,11 +23,11 @@
 <!--Intro start-->
 - 🔭 I’m currently working as **Data & MLOps Engineer @Zintlr**
 
-- 🌱 I’m deepening my knowledge in **Python, Docker, Kubernetes, Machine Learning, and Cloud technologies (AWS, GCP, Azure)**
+- 🌱 I’m currently learning **Machine Learning (ML), Large Language Models (LLM), Go, and PySpark**
 
 - ☁️ I have a passion for **Cloud and Data-Driven Solutions**
 
-- 💬 Ask me about **Python, Docker, Machine Learning, and DevOps Practices**
+- 💬 Ask me about **Python, Docker, Kubernetes, Machine Learning, and Cloud technologies (AWS, GCP, Azure)**
 
 - 📫 Feel free to reach me at **gopaljogi5@gmail.com**
 <!--Intro end-->
