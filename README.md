@@ -1,60 +1,94 @@
-# 👋 Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Welcome to my GitHub Profile!
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Gopal</h1></summary>
+  </ul>
+</div>
 
-I'm Gopal Jogi, a passionate DevOps and Fullstack Python developer originally from Nagpur, Maharashtra, now based in Bangalore, Karnataka.
+<!--snake animation-->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+</div>
 
-### 💻 Technologies & Tools
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Embracing Growth and Learning</h2></summary>
+  </ul>
+</div>
 
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=15d8fe"></code>
-<code><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=15d8fe"></code>
+<!--Intro start-->
+- 🔭 I’m currently working as **Data & MLOps Engineer @Zintlr**
 
-### 🌱 Currently Learning
+- 🌱 I’m deepening my knowledge in **Python, Docker, Kubernetes, Machine Learning, and Cloud technologies (AWS, GCP, Azure)**
 
-- Exploring advanced DevOps practices and tools 🛠️
-- Enhancing automation skills for CI/CD pipelines 🤖
+- ☁️ I have a passion for **Cloud and Data-Driven Solutions**
 
-### 👥 Looking to Collaborate On
+- 💬 Ask me about **Python, Docker, Machine Learning, and DevOps Practices**
 
-- Open-source projects related to DevOps and automation 🌐
-- Simplifying software development workflows with innovative tools ⚙️
-- Continuous integration and delivery solutions 🚚
+- 📫 Feel free to reach me at **gopaljogi5@gmail.com**
+<!--Intro end-->
 
-### 📫 Connect with Me
+<!--stats & trophy (start)-->
+<p align="center">
+  <!--stats (start)-->
+  <table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopaljogi5&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img title="🔥 GitHub streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gopaljogi5&theme=dark&hide_border=false" /> 
+    </td>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gopaljogi-blue)](https://www.linkedin.com/in/gopaljogi/)
-[![Email](https://img.shields.io/badge/Email-gopaljogi5%40gmail.com-red)](mailto:gopaljogi5@gmail.com)
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gopaljogi5&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+  </table>
+</p>
+<!--stats end-->
 
-### ⚡ Fun Facts
+<!--trophy start-->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophy">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=gopaljogi5&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+<!--trophy end-->
 
-- I love coding and exploring new technologies 💻
-- Enjoying a cup of coffee while coding is my favorite ritual ☕
-- Ask me about my latest coding challenge, and I'll share the story 
+<!--Technologies section-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies I Work With 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-### 📈 GitHub Stats
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,gcp,azure,linux,git,vscode,html,css&perline=12" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-jogi&show_icons=true&theme=radical)
+<!--Connect with me-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with Me 🤝</h2></summary>
+  </ul>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-jogi&layout=compact&theme=radical)
+<!--Social links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/gopaljogi5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopal-jogi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<!--Profile visit count-->
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=gopaljogi5&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+</div>
 
-## 🏆 Professional Experience
-
-### Data Engineer | Zintlr (February 2024 - Present)
-
-- Developed and maintained data pipelines, optimized ETL processes.
-- Ensured data integrity and collaborated across teams for data requirements.
-- Proficient in SQL, Python, and cloud platforms like AWS and Google Cloud.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
